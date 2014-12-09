@@ -1,0 +1,9 @@
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\bin\Release\ProStoreDB.dacpac
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\bin\Release\ProStoreDB.dll
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\bin\Release\ProStoreDB.pdb
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Release\Model.xml
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Release\refactor.xml
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Release\postdeploy.sql
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Release\predeploy.sql
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Release\ProStoreDB.dll
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Release\ProStoreDB.pdb

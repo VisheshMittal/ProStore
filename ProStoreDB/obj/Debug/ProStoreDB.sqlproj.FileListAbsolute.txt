@@ -1,0 +1,14 @@
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\bin\Debug\ProStoreDB.dacpac
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\bin\Debug\ProStoreDB.dll
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\bin\Debug\ProStoreDB.pdb
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Debug\ProStoreDB.dll
+C:\Users\v!shu\Documents\Visual Studio 2013\Projects\SQL Server Database Projects\ProStoreDB\obj\Debug\ProStoreDB.pdb
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\bin\Debug\ProStoreDB.dacpac
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\bin\Debug\ProStoreDB.dll
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\bin\Debug\ProStoreDB.pdb
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\obj\Debug\Model.xml
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\obj\Debug\refactor.xml
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\obj\Debug\postdeploy.sql
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\obj\Debug\predeploy.sql
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\obj\Debug\ProStoreDB.dll
+D:\vishu\apps\ProStore (WebSite+DB)\MTA'14 Project\ProStoreDB\obj\Debug\ProStoreDB.pdb

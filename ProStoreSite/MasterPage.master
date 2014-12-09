@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body style="color:#FFFFFF; padding:0; margin:0;">
+    <form id="form1" runat="server">
+    <div>
+        <div style="height:140px; width:auto; background-color:#494343">
+            
+            <h1 style="font-size: 42pt; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-top: 0px; top: 40px; left: 10px; position: absolute; height: 60px; width: 1015px;">&nbsp;&nbsp;&nbsp;&nbsp;
+            ProStore
+            </h1>
+
+            <asp:Button runat="server" Text="Home" style=" width: 150px; height: 50px; background-color:#006699; top:59px; left:716px; position:relative; font-family: 'Segoe UI'; font-size:large; color:white; border-radius: 20px;" OnClick="home_Click"  />
+            <asp:Button runat="server" Text="About" style=" width: 150px; height: 50px; background-color:#006699; top:59px; left:765px; position:relative; font-family: 'Segoe UI'; font-size:large; color:white; border-radius: 20px;" OnClick="about_Click" />
+        </div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
